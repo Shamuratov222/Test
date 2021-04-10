@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Калькулятор - площадь ромба test </title>
+<title>Калькулятор - площадь ромба  </title>
 </head>
 <body background= "https://img3.goodfon.ru/original/2560x1440/a/ed/poligony-linii-grani-planeta.jpg">
-<h1 align="center">Калькулятор - площадь ромба test2 </h1>>
+<h1 align="center">Калькулятор - площадь ромба  </h1>>
     <form align="center" action="${pageContext.request.contextPath}/JavaCalc" method="post">
         <label for="first">Первая диагональ:</label>
         <input type="text" name="first" id="first" value="${first}">
