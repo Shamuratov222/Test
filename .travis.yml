@@ -7,6 +7,6 @@ deploy:
   provider: heroku
   api_key:
     secure: "M3NNhMEC14U+feoV/b0F6sS9+at1E9AR6Wsd/GCYzRV0HAu5XXeRBxp/QtQtfQZFTJeGQKJZvdC16OoTtnMnGcTHxbPjVT8pSKEf5GIVpxOZos+Rw4dRWl004MKEtBvXK6x1HxyvKBU5Ih648HF8/MPHInnSRlceYzuBlySrVg84b2kE+itn+2uUXy5UIM5U2ikQO0ZtYWCgW4jaJItzMX/WpTW1AZgeSjAd8I79qPI65TpWEXEDU4nNEJ0reh152HQyQ3A0fsi6YVTmTJX04kDTrobBSe13iufBe+lBipFpgKjsKcbcv66Ow3twOhlmQbE0/H3InL3Nm+L7ylDRdqtuZEHULlcMcCe94uumq1HfahFRkBQ11H9COC9AtWigZVWibDFlHnPOjY4JvSMiuBtJlPjekSURJG3GzGLmMkzAQAMKHkOhqU8/DGLvizYAI6HiShv1DwRQMYRsNfetiGDxNA8yo8f6XpBuVB/gEmduZh+zJCbQrVwn6toBQMwUcr+JLTpWoiKCNNWn3eFokuJi5lGA86HbNBwIrQocJlfjjVtPWKNaPLL9TtIAvbn2nW+7ki+PCHqsm95VFepjEfqAeORbi8HrQ/wohIxkimyO9VWhNlmJGnZUHhcGrjLpiu2J+Fu4wY3mJ788nY58lRNm95o892X3hC+MPM6k/ws="
-  app:   
-    master: test-shamuratov
+  on:   
+    all_branches: true
 
